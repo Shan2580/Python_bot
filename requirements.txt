@@ -1,0 +1,8 @@
+python-telegram-bot==22.8
+requests
+aiohttp
+pydantic
+urllib3
+certifi
+idna
+charset-normalizer
